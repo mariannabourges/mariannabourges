@@ -4,7 +4,7 @@
 <p> - 💞️ I’m interested in agile practices, product management, information architecture, coding in python and javascript.</P>
 <p> - 📫 Here's my linktree: https://linktr.ee/mariannabourges </P>
 <br>
-<p> - 👋 Olá, I’m @mariannabourges</P>
+<p> - 👋 Olá, Sou @mariannabourges</P>
 <p> - 👀 Eu sou graduada em Sociologia e Política.</P>
 <p> - 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas.</P>
 <p> - 💞️ Me interesso por metodologias ágeis, gestão de produto, arquitetura da informação e programar em python e javascript.</P>
