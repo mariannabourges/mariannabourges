@@ -16,7 +16,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Marianna GitHub Stats" src="https://github-readme-stats.mariannabourges.vercel.app/api?username=mariannabourges&show_icons=true&hide_border=true" />
+[![Marianna stats](https://github-readme-stats.vercel.app/api?username=mariannabourges)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
