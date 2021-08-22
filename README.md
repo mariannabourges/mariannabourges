@@ -17,6 +17,8 @@
   <summary>:zap: GitHub Stats</summary>
 
 [![Marianna stats](https://github-readme-stats.vercel.app/api?username=mariannabourges)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariannabourges&layout=compact)](https://github.com/mariannabourges/github-readme-stats)
+
 
 </details>
 
